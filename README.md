@@ -23,5 +23,5 @@ With the help of a webcam, it detects and understands your gestures to perform a
 ##  Installation
 1. Download this project:
    ```bash
-   git clone https://github.com/Asmitha cub/System-Gesture-Commands.git
+   git clone https://github.com/Asmitha-cub/System-Gesture-Commands.git
    cd System-Gesture-Commands
